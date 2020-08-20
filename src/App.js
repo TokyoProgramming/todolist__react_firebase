@@ -37,7 +37,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>yusuke yoshioka</h1>
+      <h1>React Firebase Todo App -- Crud</h1>
 
         <FormControl>
             <InputLabel>Write a Todos </InputLabel>
